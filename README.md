@@ -26,4 +26,7 @@ reverse_each_word("Hello there, and how are you?")
 
 **Hint:** *How can we reverse each word and return those altered words? Remember that* `.each` *returns the original array but other enumerators don't.*
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-reverse-each-word/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-reverse-each-word/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Reverse Each Word</p>
